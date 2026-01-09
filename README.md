@@ -17,3 +17,4 @@ Feature:\n- Collaboration\n- Version control
 Features:\n- Git basics\n- Team collaboration
 >>>>>>> ceb34ae517d8211ad44d18ac5eb3914bf5e32471
 Features:\n- Git basics\n- Team collaboration
+Features:\n- Git basics \n- Team collaboration
